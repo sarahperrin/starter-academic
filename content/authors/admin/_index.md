@@ -14,7 +14,7 @@ organizations:
   url: "https://team.inria.fr/sequel/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning, mean field games and game theory.
 
 interests:
 - Reinforcement Learning
@@ -23,8 +23,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Machine Learning
+    institution: Scool (ex. SequeL) Inria / Univ. Lille
     year: 2019-2022 (Expected)
   - course: Ms in Artificial Intelligence & Computer Vision
     institution: École Polytechnique
@@ -69,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Sarah Perrin is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student at Inria Lille, under the supervision of Pr. Olivier Pietquin (Google Brain) and Pr. Romuald Élie (DeepMind). Before starting my PhD, I graduated from École Polytechnique.
 
-Second paragraph
+My research focuses on applying Reinforcement Learning to solve Mean Field Games. Mean Field Games theory studies decision making in a population of an infinite number of identical agents. It has inspired numerous applications such as population dynamics modeling, crowd motion, economics or energy management and production.
+
+In my spare time, I like to play and compose electronic music. I also enjoy outdoor activities, especially skiing and surfing. 
