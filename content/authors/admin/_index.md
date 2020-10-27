@@ -10,7 +10,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Inria/CNRS/Université de Lille
+- name: Inria / CNRS / Université de Lille
   url: "https://team.inria.fr/sequel/"
 
 # Short bio (displayed in user profile at end of posts)
