@@ -25,13 +25,13 @@ education:
   courses:
   - course: PhD in Machine Learning
     institution: Scool (ex. SequeL) Inria / Univ. Lille
-    year: 2019-2022 (Expected)
+    year: 2019 - 2022 (Expected)
   - course: Ms in Artificial Intelligence & Computer Vision
     institution: École Polytechnique
-    year: 2018-2019
+    year: 2018 - 2019
   - course: Cycle ingénieur
     institution: École Polytechnique
-    year: 2015-2018
+    year: 2015 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
