@@ -44,9 +44,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sarah_perrin_
+- icon: soundcloud
+  icon_pack: fab
+  link: https://soundcloud.com/sarahmks
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.fr/citations?user=pTdKgHQAAAAJ&hl=fr
+  link: https://scholar.google.fr/citations?user=pTdKgHQAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/sarahperrin
