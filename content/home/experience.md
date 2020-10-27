@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software Engineer Intern"
+  company = "YouTube (Google)"
+  company_url = "https://www.youtube.com/"
+  location = "Paris"
+  date_start = "Apr. 2019"
+  date_end = "Aug. 2019"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Machine Learning to improve video classification and recommendation system.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Research Intern"
+  company = "SRI International AI Center"
+  company_url = "https://www.sri.com/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "Apr. 2018"
+  date_end = "Jul. 2018"
+  description = """
+  Under the supervision of Dr. Rodrigo de Salvo Braz.
+  * Theoretical work: Symbolic Parameter Estimation in Probabilistic Graphical Models.
+  * Implementation in PRAiSE & Expresso software (Java).
+  """
+  
+[[experience]]
+  title = "Intern"
+  company = "SCiBreak"
+  company_url = "https://www.scibreak.com/"
+  location = "Stockholm"
+  date_start = "Jun. 2017"
+  date_end = "Aug. 2017"
+  description = """
+  SCiBreak is a startup in the Energy sector which develops high-voltage fast-acting circuit breakers. 
+  * Image processing (Python, OpenCV).
+  * Design and topological optimization (Autodesk Inventor, SolidWorks).
+  """
 
 +++
