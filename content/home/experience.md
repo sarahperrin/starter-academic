@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = "2019-08-31"
   description = """
-  Machine Learning to improve video classification and recommendation system.
+  Machine Learning to improve video classification and recommendation system (C++, Python).
   """
 
 [[experience]]
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_end = "2018-07-27"
   description = """
   Under the supervision of Dr. Rodrigo de Salvo Braz.
-  * Theoretical work: Symbolic Parameter Estimation in Probabilistic Graphical Models.
+  * Symbolic Parameter Estimation in Probabilistic Graphical Models.
   * Implementation in PRAiSE & Expresso software (Java).
   """
   
