@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Université de Lille
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
