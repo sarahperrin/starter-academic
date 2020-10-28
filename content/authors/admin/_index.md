@@ -10,8 +10,12 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Inria / CNRS / Université de Lille
+- name: SequeL --> Scool (Inria)
   url: "https://team.inria.fr/sequel/"
+- name: CRIStAL (CNRS)
+  url: "https://www.cristal.univ-lille.fr/?rubrique1"
+- name: Univ. Lille
+  url: "https://www.univ-lille.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reinforcement learning, mean field games and game theory.
