@@ -16,7 +16,7 @@ publishDate: 2020-10-28T17:09:18+01:00
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Machine Learning for Asset Management: New Developments and Financial Applications"
 publication_short: ""
 
 abstract: "Portfolio optimization emerged with the seminal paper of Markowitz (1952). The
