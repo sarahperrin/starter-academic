@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Fictitious Play for Mean  Field Games: Continuous Time Analysis and Applications"
-authors: []
-date: 2020-10-28T16:48:05+01:00
+authors: [Sarah Perrin, Julien Pérolat, Mathieu Laurière, Matthieu Geist, Romuald Élie, Olivier Pietquin]
+date: 2020-07-28T16:48:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
