@@ -67,6 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+### Uncomment to allow filtering
+#{{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./publication/).
+#{{% /callout %}}
