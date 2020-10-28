@@ -47,6 +47,9 @@ social:
 - icon: soundcloud
   icon_pack: fab
   link: https://soundcloud.com/sarahmks
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sarah-perrin-504823137/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=pTdKgHQAAAAJ
