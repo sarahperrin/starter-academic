@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Instructor: Alexandre Sedoglavic
 abstract:
 
 # Talk start and end times.

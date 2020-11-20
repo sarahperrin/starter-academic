@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Instructor: Mikaël Salson
 abstract:
 
 # Talk start and end times.

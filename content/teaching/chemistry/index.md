@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Oral preparation for students to the competitive exam of Grandes Écoles at Lycée de l'Essouriau.
 abstract:
 
 # Talk start and end times.

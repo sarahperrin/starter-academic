@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Tutoring 2nd year students in Computer Science"
+title: "Tutoring in Computer Science"
 event:
 event_url:
 location: Polytechnique
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Course Algorithms"
+summary: "Tutoring of 2nd year students of École Polytechnique in programmation and algorithmics."
 abstract:
 
 # Talk start and end times.
