@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Relational Databases Part I"
+title: "Relational Databases"
 event:
 event_url:
-location: Universite de Lille
+location: Université de Lille
 address:
   street:
   city:

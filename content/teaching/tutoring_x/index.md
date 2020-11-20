@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Relational Databases Part I"
+title: "Tutoring 2nd year students in Computer Science"
 event:
 event_url:
-location: Universite de Lille
+location: Polytechnique
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary: "Course Algorithms"
 abstract:
 
 # Talk start and end times.

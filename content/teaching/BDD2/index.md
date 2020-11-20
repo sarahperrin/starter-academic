@@ -4,7 +4,7 @@
 title: "Relational Databases Part I"
 event:
 event_url:
-location: Universite de Lille
+location: Université de Lille
 address:
   street:
   city:
