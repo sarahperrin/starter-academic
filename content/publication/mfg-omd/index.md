@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Scaling up Mean Field Games with Online Mirror Descent"
-authors: [Sarah Perrin, Julien Pérolat, Mathieu Laurière, Matthieu Geist, Romuald Élie, Olivier Pietquin]
+authors: [Julien Pérolat, Sarah Perrin, Romuald Élie, Mathieu Laurière, Georgios Piliouras, Matthieu Geist, Karl Tuyls, Olivier Pietquin]
 date: 2020-07-28T16:48:05+01:00
 doi: ""
 
