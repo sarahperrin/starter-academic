@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mean Field Games & Reinforcement Learning"
+title: "Mean Field Games Flock! The Reinforcement Learning Way"
 event:
 event_url:
 location: CNIA (Bordeaux)

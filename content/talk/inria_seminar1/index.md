@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "(Upcoming Talk) Reinforcement Learning for Mean Field Games"
+title: "Reinforcement Learning for Mean Field Games"
 event:
 event_url:
 location: Inria (Scool weekly seminar)
