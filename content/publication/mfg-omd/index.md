@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fictitious Play for Mean  Field Games: Continuous Time Analysis and Applications"
+title: "Scaling up Mean Field Games with Online Mirror Descent"
 authors: [Sarah Perrin, Julien Pérolat, Mathieu Laurière, Matthieu Geist, Romuald Élie, Olivier Pietquin]
 date: 2020-07-28T16:48:05+01:00
 doi: ""
@@ -16,11 +16,18 @@ publishDate: 2020-10-28T16:48:05+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NeurIPS 2020"
+publication: "Under review."
 publication_short: ""
 
-abstract: "In this paper, we deepen the analysis of continuous time Fictitious Play learning algorithm to the consideration of various finite state Mean Field Game settings (finite horizon, γ-discounted), allowing in particular for the introduction of an additional common noise.
-We first present a theoretical convergence analysis of the continuous time Fictitious Play process and prove that the induced exploitability decreases at a rate O(1/t). Such analysis emphasizes the use of exploitability as a relevant metric for evaluating the convergence towards a Nash equilibrium in the context of Mean Field Games. These theoretical contributions are supported by numerical experiments provided in either model-based or model-free settings. We provide hereby for the first time converging learning dynamics for Mean Field Games in the presence of common noise."
+abstract: "We address scaling up equilibrium computation
+in Mean Field Games (MFGs) using Online Mirror Descent (OMD). We show that continuoustime OMD provably converges to a Nash equilibrium under a natural and well-motivated set
+of monotonicity assumptions. This theoretical
+result nicely extends to multi-population games
+and to settings involving common noise. A thorough experimental investigation on various single and multi-population MFGs shows that OMD
+outperforms traditional algorithms such as Fictitious Play (FP). We empirically show that OMD
+scales up and converges significantly faster than
+FP by solving, for the first time to our knowledge, examples of MFGs with hundreds of billions states. This study establishes the state-ofthe-art for learning in large-scale multi-agent and
+multi-population games."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,7 +44,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2007.03458.pdf
+url_pdf: https://arxiv.org/pdf/2103.00623.pdf
 url_code:
 url_dataset:
 url_poster:

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fictitious Play for Mean  Field Games: Continuous Time Analysis and Applications"
-authors: [Sarah Perrin, Julien Pérolat, Mathieu Laurière, Matthieu Geist, Romuald Élie, Olivier Pietquin]
+title: "Concave Utility Reinforcement Learning: the Mean-field Game viewpoint"
+authors: [Matthieu Geist, Julien Pérolat, Mathieu Laurière, Romuald Elie, Sarah Perrin, Olivier Bachem, Rémi Munos, Olivier Pietquin]
 date: 2020-07-28T16:48:05+01:00
 doi: ""
 
@@ -16,11 +16,22 @@ publishDate: 2020-10-28T16:48:05+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NeurIPS 2020"
+publication: "Under review."
 publication_short: ""
 
-abstract: "In this paper, we deepen the analysis of continuous time Fictitious Play learning algorithm to the consideration of various finite state Mean Field Game settings (finite horizon, γ-discounted), allowing in particular for the introduction of an additional common noise.
-We first present a theoretical convergence analysis of the continuous time Fictitious Play process and prove that the induced exploitability decreases at a rate O(1/t). Such analysis emphasizes the use of exploitability as a relevant metric for evaluating the convergence towards a Nash equilibrium in the context of Mean Field Games. These theoretical contributions are supported by numerical experiments provided in either model-based or model-free settings. We provide hereby for the first time converging learning dynamics for Mean Field Games in the presence of common noise."
+abstract: "Concave Utility Reinforcement Learning (CURL) extends RL from linear to concave utilities in the
+occupancy measure induced by the agent’s policy. This encompasses not only RL but also imitation
+learning and exploration, among others. Yet, this more general paradigm invalidates the classical Bellman
+equations, and calls for new algorithms. Mean-field Games (MFGs) are a continuous approximation of
+many-agent RL. They consider the limit case of a continuous distribution of identical agents, anonymous
+with symmetric interests, and reduce the problem to the study of a single representative agent in interaction
+with the full population. Our core contribution consists in showing that CURL is a subclass of MFGs.
+We think this important to bridge together both communities. It also allows to shed light on aspects of
+both fields: we show the equivalence between concavity in CURL and monotonicity in the associated
+MFG, between optimality conditions in CURL and Nash equilibrium in MFG, or that Fictitious Play
+(FP) for this class of MFGs is simply Frank-Wolfe, bringing the first convergence rate for discrete-time
+FP for MFGs. We also experimentally demonstrate that, using algorithms recently introduced for solving
+MFGs, we can address the CURL problem more efficiently."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,7 +48,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2007.03458.pdf
+url_pdf: https://arxiv.org/pdf/2106.03787.pdf
 url_code:
 url_dataset:
 url_poster:
