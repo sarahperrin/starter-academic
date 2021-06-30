@@ -3,7 +3,7 @@
 
 title: "Mean Field Games Flock! The Reinforcement Learning Way"
 authors: [Sarah Perrin, Mathieu Laurière, Julien Pérolat, Matthieu Geist, Romuald Élie, Olivier Pietquin]
-date: 2020-07-28T16:48:05+01:00
+date: 2021-01-28T16:48:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

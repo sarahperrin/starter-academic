@@ -3,7 +3,7 @@
 
 title: "Scaling up Mean Field Games with Online Mirror Descent"
 authors: [Julien Pérolat, Sarah Perrin, Romuald Élie, Mathieu Laurière, Georgios Piliouras, Matthieu Geist, Karl Tuyls, Olivier Pietquin]
-date: 2020-07-28T16:48:05+01:00
+date: 2021-01-28T16:48:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

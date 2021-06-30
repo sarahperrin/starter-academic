@@ -3,7 +3,7 @@
 
 title: "Concave Utility Reinforcement Learning: the Mean-field Game viewpoint"
 authors: [Matthieu Geist, Julien Pérolat, Mathieu Laurière, Romuald Elie, Sarah Perrin, Olivier Bachem, Rémi Munos, Olivier Pietquin]
-date: 2020-07-28T16:48:05+01:00
+date: 2021-05-28T16:48:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
