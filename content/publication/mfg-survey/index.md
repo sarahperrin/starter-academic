@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Scalable Deep Reinforcement Learning Algorithms for Mean Field Games"
+title: "Learning Mean Field Games: A Survey
 authors: [Mathieu Laurière, Sarah Perrin, Matthieu Geist, Olivier Pietquin]
 date: 2022-05-26T16:48:05+01:00
 doi: ""

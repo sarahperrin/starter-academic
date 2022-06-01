@@ -16,7 +16,7 @@ publishDate: 2020-10-28T16:48:05+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under review"
+publication: "AAMAS 2022"
 publication_short: ""
 
 abstract: "Concave Utility Reinforcement Learning (CURL) extends RL from linear to concave utilities in the

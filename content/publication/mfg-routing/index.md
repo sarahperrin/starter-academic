@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Scalable Deep Reinforcement Learning Algorithms for Mean Field Games"
+title: "Solving N-player dynamic routing games with congestion: a mean field approach"
 authors: [Theophile Cabannes, Mathieu Lauriere, Julien Perolat, Raphael Marinier, Sertan Girgin, Sarah Perrin, 
           Olivier Pietquin, Alexandre M Bayen, Eric Goubault, Romuald Elie]
 date: 2021-05-28T16:48:05+01:00
